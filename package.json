@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "bootstrap-table": "1.18.3",
-    "tableexport.jquery.plugin": "^1.10.21"
+    "tableexport.jquery.plugin": "^1.25.0"
   }
 }
